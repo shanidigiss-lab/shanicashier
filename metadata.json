@@ -1,0 +1,10 @@
+{
+  "name": "KASIRKU POS",
+  "description": "Enterprise Point of Sale & Inventory Management System with real-time cashier checkout, AI visual camera food recognition, stock monitoring, sales analytics, and receipt generation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
